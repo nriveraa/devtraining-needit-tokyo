@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA NeedIt Application - New Tab">39e9ba6c07412110ff56ff208c1ed0d0</grid_canvas>
+        <height>14</height>
+        <portal_widget display_value="Created 2023-02-13 09:46:03">5305c7ac07412110ff56ff208c1ed03f</portal_widget>
+        <posx>0</posx>
+        <posy>24</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-13 08:46:03</sys_created_on>
+        <sys_id>13058fa807812110ff56ff208c1ed07f</sys_id>
+        <sys_name>39e9ba6c07412110ff56ff208c1ed0d0</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_13058fa807812110ff56ff208c1ed07f</sys_update_name>
+        <width>4</width>
+    </sys_grid_canvas_pane>
+</record_update>
